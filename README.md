@@ -3,6 +3,6 @@ first learning
 #include<stdio.h>
 
 int main(){
-printf("Hello world");
+printf("It is real.I love you.");
 reutrn 0;
 }
