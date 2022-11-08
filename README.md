@@ -1,8 +1,5 @@
 # hello-world
-first learning
-#include<stdio.h>
+New world is coming!
 
-int main(){
-printf("It is real.I love you.");
-reutrn 0;
-}
+## This is Ph.D. Li
+I will be the new man. **Will to do everything i want.**
